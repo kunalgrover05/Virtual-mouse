@@ -1,0 +1,16 @@
+﻿Build started 1/2/2014 12:16:42 AM.
+     1>Project "C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\CV\CV.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\Programming\OpenCV\build\include\opencv /IC:\Programming\OpenCV\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt CV.cpp
+         CV.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\x64\Release\CV.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Programming\OpenCV\build\x64\vc11\lib opencv_calib3d244.lib opencv_contrib244.lib opencv_core244.lib opencv_features2d244.lib opencv_flann244.lib opencv_gpu244.lib opencv_haartraining_engine.lib opencv_highgui244.lib opencv_imgproc244.lib opencv_legacy244.lib opencv_ml244.lib opencv_nonfree244.lib opencv_objdetect244.lib opencv_photo244.lib opencv_stitching244.lib opencv_ts244.lib opencv_video244.lib opencv_videostab244.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\x64\Release\CV.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\x64\Release\CV.lib" /MACHINE:X64 x64\Release\CV.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         CV.vcxproj -> C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\x64\Release\CV.exe
+     1>Done Building Project "C:\Users\Kunal\Documents\Visual Studio 2012\Projects\Virtual_mouse\CV\CV.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.17
